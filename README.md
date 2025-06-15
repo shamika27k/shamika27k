@@ -1,65 +1,60 @@
-<h1 align="center">Hi there 👋, I'm Shamika Kadam</h1>
-<h3 align="center">🚀 Passionate AI/ML Engineer | Final Year Student | Full-Stack Developer</h3>
+# 💫 About Me:
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Learning+Deep+Learning+%26+ML;Building+real-world+AI+projects;Turning+ideas+into+impact!+🚀" alt="Typing SVG" />
-</p>
+🔭 I’m currently working on:  
+A real-time ISL (Indian Sign Language) to Speech system and a GPA prediction app using OCR + ML.  
 
----
+👯 I’m looking to collaborate on:  
+AI/ML projects, Computer Vision tools, and impactful open-source applications.  
 
-- 🎓 I’m currently studying at **Government Polytechnic, Mumbai**
-- 🌱 Currently learning **Deep Learning, CNNs, and Advanced ML**
-- 👯 Looking to collaborate with **creative developers and AI enthusiasts**
-- 💬 Ask me about **Python, React, Machine Learning, Computer Vision, OpenCV**
-- 🌐 Portfolio: [shamika27k.github.io/Webtechportfolio](https://shamika27k.github.io/Webtechportfolio/index.html)
-- 📫 Reach me at: **shamikagpm@gmail.com**
+🤝 I’m looking for help with:  
+Improving OCR accuracy from scanned documents and deploying ML models to production.  
 
----
+🌱 I’m currently learning:  
+Deep Learning, TensorFlow, Model Optimization, and Full-stack app deployment.  
 
-### 💼 Projects I'm Proud Of
+💬 Ask me about:  
+Python, React, OpenCV, Machine Learning, CNNs, and Project Deployment.  
 
-- 🔍 **GPA Predictor**  
-  Predicts final semester GPA using OCR + ML from scanned mark sheets.  
-  [🔗 GitHub Repository](https://github.com/shamika27k)
-
-- 🤟 **Sign Language to Speech Converter**  
-  Real-time Indian Sign Language to text and speech using OpenCV and CNN.  
-  [🔗 GitHub Repository](https://github.com/shamika27k)
+⚡ Fun fact:  
+I love turning real-world problems into code, and I enjoy late-night debugging like a true coder 🌙✨
 
 ---
 
-### 🛠️ Languages and Tools
+## 🌐 Socials:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,react,nodejs,mongodb,mysql,postgres,html,css,js,bootstrap,androidstudio,vscode,github" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamika27k&show_icons=true&theme=github_dark&hide=prs" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamika27k&theme=github-dark" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamika27k&layout=compact&theme=github_dark" width="48%" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shamika-kadam-1a70a228b)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamikagpm@gmail.com)  
 
 ---
 
-### 🌐 Connect With Me
+# 💻 Tech Stack:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shamika-kadam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shamikagpm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ---
 
-<h3 align="center">💡 Let’s build something amazing together! 🚀</h3>
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=shamika27k&theme=merko&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=shamika27k&theme=merko&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamika27k&theme=merko&hide_border=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=shamika27k&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Profile generated with ❤️ by GPRM: https://gprm.itsvg.in -->
