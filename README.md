@@ -13,11 +13,10 @@
 
 - 🎯 **GPA Predictor**  
   <sub>→ Uses ML & OCR to predict GPA from scanned marksheets.</sub>  
-  🔗 [View Project](https://github.com/shamika27k/GPA-Predictor)
-
+ 
 - 🧠 **ISL to Speech Converter**  
   <sub>→ Real-time Indian Sign Language to text + speech using CNN + OpenCV.</sub>  
-  🔗 [View Project](https://github.com/shamika27k/Sign-Language-To-Text-and-Speech-Conversion)
+  
 
 ---
 
